@@ -1,7 +1,7 @@
 # Superstore Sales Dashboard (Power BI)
 
 ## 📊 Project Overview
-This Power BI project analyzes the Superstore_2000 dataset to visualize key sales metrics and gain business insights. The interactive dashboard provides a comprehensive view of sales performance by category, region, segment, sub-category, and time trends.
+This Power BI task analyzes the Superstore_2000 dataset to visualize key sales metrics and gain business insights. The interactive dashboard provides a comprehensive view of sales performance by category, region, segment, sub-category, and time trends. Its a task 2 of my internship 
 
 ## 🗂️ Files Included
 - `Task 2 internship.pbix' — Power BI dashboard file.
